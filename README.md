@@ -4,10 +4,10 @@ SKuareLBoT is a discord bot, who offers every service for free, and it is an ada
 <br><img src="https://github.com/MeSumitK/SKuareLBoT/assets/167051543/2260eb41-677a-48ba-83eb-e791830b61a0" width="350px" height="250px"/>
 <img src="https://github.com/MeSumitK/SKuareLBoT/assets/167051543/f1d4df8a-9fc9-4506-b8db-598dc24c00b1" width="350px" height="250px"/>  
 # Invite Me
-[Click here to invite me into your server](https://xyz.app.com) <br>For help, questions & FAQs >>--->> [Join the bot support server](https://xyz.app.com)  
+[Click here to invite me into your server](https://testsiteforskuarelbot.in) <br>For help, questions & FAQs >>--->> [Join the bot support server](https://testsiteforskuarelbot.in)  
 # Dashboard
-Configure the bot with an easy interface on the app [App Link](https://playstore.com/apk)
+Configure the bot with an easy interface on the app [App Link](https://testsiteforskuarelbot.in)
 # Commands
-For an explanation of the commands, please visit the [Site](https://docs.skuarelbot.gg/) or use our app to download the full document.
+For an explanation of the commands, please visit the [Site](https://testsiteforskuarelbot.in/) or use our app to download the full document.
 # Hosting
 Hosting will be live once our app is ready to manage the bot.
